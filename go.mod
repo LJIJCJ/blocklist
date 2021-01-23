@@ -1,4 +1,4 @@
-module github.com/missdeer/blocklist
+module github.com/ljijcj/block
 
 go 1.14
 
